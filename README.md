@@ -39,6 +39,7 @@ Things to consider if a user input the data for list:
 - If the user enters any data that is not a string. To resolve this we would need to sanitize to check the user's input to make sure they input the correct data type. This can be done through some conditional statements also.
 
 - Any HTML/Script injection. To prevent this, we will have to escape any data inputted by the user.
+<br>
 
 4. <i><b>List 2-3 attacks that web applications are vulnerable to. How do these attacks work? How can we prevent those attacks? </b></i><br>
 Two attacks that web applications are vulnerable to are XSRF cross domain and SQL injection attacks. 
